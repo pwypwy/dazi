@@ -1,0 +1,18 @@
+G:\5006140029\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+G:\5006140029\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+G:\5006140029\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+G:\5006140029\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+G:\5006140029\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+G:\5006140029\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+G:\5006140029\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+G:\5006140029\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+G:\5006140029\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
